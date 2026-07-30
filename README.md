@@ -1,5 +1,3 @@
-# jecaconstructionservices.github.io
-
 # 🚀 JE-CA Construction Services (H1)
 
 A concise, single-sentence description of what this project does goes right here.
